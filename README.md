@@ -1,7 +1,7 @@
 # Spotify-Clone 🎶
 
 <li>Bu proje HTML5,CSS,SCSS,JS,API ile oluşturulmuş Spotify Clone arayüzü içerir.</li>
-<li>Apiden gelen verilerle şarkı listeleme,arama,oynatma özelliklerini barındırır.</li>
+<li>Api'den gelen verilerle şarkı listeleme,arama,oynatma özelliklerini barındırır.</li>
 <li>Kullanıcı dostu arayüzü,duyarlı tasarımı ile kolay erişim olanağı sunar.</li>
 
 # Kullanılan Teknolojiler 🎨
